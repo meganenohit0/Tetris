@@ -7,3 +7,4 @@ E：ホールド
 下矢印：落下速度を速める
 右矢印：ミノを右方向へ移動
 左矢印：ミノを左方向へ移動
+このURLでプレイ可能：https://meganenohit0.github.io/Tetris/
