@@ -1,4 +1,4 @@
-このURLにアクセスするとプレイ可能：https://meganenohit0.github.io/Tetris/
+このURLにアクセスするとプレイ可能：https://meganenohit0.github.io/Tetris-WebGL-/
 操作方法
 Q：左回転
 W：右回転
